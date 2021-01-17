@@ -1,4 +1,4 @@
-# VSCode Remote ssh
+# VSCode Remote SSH 遠端連線調試
 
 使用VSCode遠端調試CentOS系統內的程式
 
